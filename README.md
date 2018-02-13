@@ -7,7 +7,7 @@ Testing is an important part of the development process and many organizations p
 
 ## How to run the application
 
-This application can be  cloned from the repository at `git clone https://github.com/merhawi2010/merhawi2010.github.io.git` and save it on hard drive. After downloading the content from the repository you will need to extract the zip-file. By double clicking the index.html file you can run the application and enjoy it.
+This application can be  cloned from the repository at `https://github.com/merhawi2010/FeedReaderTesting.git` and save it on hard drive. After downloading the content from the repository you will need to extract the zip-file. By double clicking the index.html file you can run the application and enjoy it.
 
 To run individual tests, please click the links at the bottom part of the page.
 
